@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Novikov Andrey</h1>
-<h3 align="center">A passionate Kubernetes administrator from Russia</h3>
+<h3 align="center">A passionate Kubernetes administrator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreyfree2020&label=Profile%20views&color=0e75b6&style=flat" alt="andreyfree2020" /> </p>
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://disk.yandex.ru/i/C_3lqnGpom0SKw](https://disk.yandex.ru/i/C_3lqnGpom0SKw)
 
-- ⚡ Fun fact **I do like learning Kubernetes!**
+- ⚡ Fun fact **I really like to study Kubernetes!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
